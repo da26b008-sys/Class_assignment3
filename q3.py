@@ -1,6 +1,3 @@
-
-
-
 class TreeNode:
     def __init__(self, salary=0, left=None, right=None):
         self.salary = salary
